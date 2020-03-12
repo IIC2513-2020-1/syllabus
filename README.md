@@ -19,9 +19,8 @@
 
 ## Curso
 
-| **Nombre:**            | IIC2513 - Tecnologías y Aplicaciones Web  |
+| **Nombre**            | IIC2513 - Tecnologías y Aplicaciones Web  |
 |------------------------|---|
-| **Sección:**           | 1 |
 | **Horario:**           | M-J: 3 |
 | **Créditos:**          | 10  |
 | **Requisitos:**        | IIC2412 o IIC2413  |
@@ -30,11 +29,12 @@
 
 ## Equipo
 
-### Profesor
+### Profesores
 
-| Nombre               | Github        |  Email         |
-|:-------------------- |:--------------| :--------------|
-| Gabriel Vidal        |  [@gpvidal](https://github.com/gpvidal)| gpvidal@uc.cl |
+| Nombre               | Sección   | Github        |  Email         |
+|:-------------------- |:----------|:--------------| :--------------|
+| Gabriel Vidal        | 1         | [@gpvidal](https://github.com/gpvidal)| gpvidal@uc.cl |
+| Hernan Cabrera       | 2         | [@HernanCabrera](https://github.com/HernanCabrera)| hernan.cabrera@uc.cl |
 
 ### Ayudantes
 
