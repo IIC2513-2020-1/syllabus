@@ -40,6 +40,20 @@
 
 | Nombre                | Github        | Email         |
 |:--------------------- |:--------------|:--------------|
+| Ignacio Acosta        | [@cho19](https://github.com/cho19)         | iaacosta@uc.cl |
+| Jorge Becerra         | [@JorgeBdelaT](https://github.com/JorgeBdelaT)      | jabecerra@uc.cl |
+| Nicolás Benitez        | [@nabenitez](https://github.com/nabenitez)       | nabenitez@uc.cl |
+| Hue Bin Kim         | [@Hbkim94](https://github.com/hbkim94)      | hbkim@uc.cl |
+| Sofía Ormazabal        | [@sormazabal](https://github.com/sormazabal) |sormazabal@uc.cl |
+| Andrés Pincheira         | [@arpincheira](https://github.com/arpincheira)      | arpincheira@uc.cl |
+| Eleuterio Ramírez        | [@Elramirezv123](https://github.com/elramirezv123)         | elramirez@uc.cl |
+| Moisés Retamal         | [@meretamal](https://github.com/meretamal)      | meretamal@uc.cl |
+| Andre Simon       | [@asimonv](https://github.com/asimonv)        | aasimon@uc.cl |
+| Tien Villalobos         | [@tvillalobos](https://github.com/tvillalobos) | tvillalobos1@uc.cl |
+
+
+
+
 
 
 ## Descripción
