@@ -10,6 +10,54 @@ Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará
 
 | Equipo  | Proyecto | Ayudante |
 |:---------------------- |:---------------------------| :------|
+| Error by Night     | [DCConstituyo](https://drive.google.com/open?id=1sjJWQVbLwocBzF360dih_0eTi4eGrsEu)                              | Ignacio Acosta    |
+| Happy Path         | [Wedding-e-Planner](https://drive.google.com/file/d/1Clo3ozHi1arVuSPUJsNafXte5ThvQFR1/view?usp=sharing)         | Ignacio Acosta    |
+| Command Three      | [Wedding-e-Planner](https://drive.google.com/file/d/1Clo3ozHi1arVuSPUJsNafXte5ThvQFR1/view?usp=sharing)         | Ignacio Acosta    |
+| Janise             | [Boletín](https://drive.google.com/file/d/1Cfb1tJ3F8tXwNEaqnS-nQRH5YLi0AaTd/view?usp=sharing)                   | Ignacio Acosta    |
+| HipoWebCrew        | [Nutri-cheap](https://drive.google.com/file/d/1zjbI8M2YWP3zTqqcxTjCIAAQPidsp0wL/view?usp=sharing)               | Ignacio Acosta    |
+| seldon             | [CAi App](https://drive.google.com/file/d/1atpk4gbb-ifF_2ZITCH7-ZI82u8_edz8/view?usp=sharing)                   | Jorge Becerra     |
+| g/beW              | [Boletín](https://drive.google.com/file/d/1Cfb1tJ3F8tXwNEaqnS-nQRH5YLi0AaTd/view?usp=sharing)                   | Jorge Becerra     |
+| Web Ones           | [Limelighter](https://docs.google.com/document/d/117GcZoFUeKQz9VE6y5BPXnO4K7CZF8HR4FVlwYHpZts/edit?usp=sharing) | Jorge Becerra     |
+| this               | [CAi App](https://drive.google.com/file/d/1atpk4gbb-ifF_2ZITCH7-ZI82u8_edz8/view?usp=sharing)                  | Jorge Becerra     |
+| SACSBAYB           | [Limelighter](https://docs.google.com/document/d/117GcZoFUeKQz9VE6y5BPXnO4K7CZF8HR4FVlwYHpZts/edit?usp=sharing) | Jorge Becerra     |
+| Java the Hutt      | [Nutri-cheap](https://drive.google.com/file/d/1zjbI8M2YWP3zTqqcxTjCIAAQPidsp0wL/view?usp=sharing)              | Nicolás Benitez   |
+| Los Conejos Malos  | [X-Change](https://drive.google.com/file/d/15Mv_9uYKkGqB7tPn9P4LuUSSLTCspE4-/view?usp=sharing)                  | Nicolás Benitez   |
+| YPLQSMDLG          | [CAi App](https://drive.google.com/file/d/1atpk4gbb-ifF_2ZITCH7-ZI82u8_edz8/view?usp=sharing)                   | Nicolás Benitez   |
+| Netz               | [EvaCursos](https://drive.google.com/file/d/13aN3XviwM18pnN0E6oD0mTM3r47Ajnyr/view?usp=sharing)                 | Nicolás Benitez   |
+| VOM Inc            | [Freelancer](https://drive.google.com/file/d/1V4eRNACSSZtfdCUQgOf5_LezVbrqcBUH/view?usp=sharing)                | Nicolás Benitez   |
+| Manial             | [Nutri-cheap](https://drive.google.com/file/d/1zjbI8M2YWP3zTqqcxTjCIAAQPidsp0wL/view?usp=sharing)               | Hue Bin Kim       |
+| niburu             | [Freelancer](https://drive.google.com/file/d/1V4eRNACSSZtfdCUQgOf5_LezVbrqcBUH/view?usp=sharing)                | Hue Bin Kim       |
+| Asdf               | [Wedding-e-Planner](https://drive.google.com/file/d/1Clo3ozHi1arVuSPUJsNafXte5ThvQFR1/view?usp=sharing)         | Hue Bin Kim       |
+| Belicooo           | [Freelancer](https://drive.google.com/file/d/1V4eRNACSSZtfdCUQgOf5_LezVbrqcBUH/view?usp=sharing)                | Hue Bin Kim       |
+| webros             | [CAi App](https://drive.google.com/file/d/1atpk4gbb-ifF_2ZITCH7-ZI82u8_edz8/view?usp=sharing)                   | Hue Bin Kim       |
+| adh bots           | [DCConstituyo](https://drive.google.com/open?id=1sjJWQVbLwocBzF360dih_0eTi4eGrsEu)                              | Andrés Pincheira  |
+| cachuwebos         | [DCConstituyo](https://drive.google.com/open?id=1sjJWQVbLwocBzF360dih_0eTi4eGrsEu)                              | Andrés Pincheira  |
+| CD Project Web     | [Nutri-cheap](https://drive.google.com/file/d/1zjbI8M2YWP3zTqqcxTjCIAAQPidsp0wL/view?usp=sharing)               | Andrés Pincheira  |
+| Localhost          | [Boletín](https://drive.google.com/file/d/1Cfb1tJ3F8tXwNEaqnS-nQRH5YLi0AaTd/view?usp=sharing)                   | Andrés Pincheira  |
+| TriMiNi            | [Boletín](https://drive.google.com/file/d/1Cfb1tJ3F8tXwNEaqnS-nQRH5YLi0AaTd/view?usp=sharing)                   | Andrés Pincheira  |
+| no2                | [Wedding-e-Planner](https://drive.google.com/file/d/1Clo3ozHi1arVuSPUJsNafXte5ThvQFR1/view?usp=sharing)         | Alejandro Ramirez |
+| Not Apple          | [X-Change](https://drive.google.com/file/d/15Mv_9uYKkGqB7tPn9P4LuUSSLTCspE4-/view?usp=sharing)                  | Alejandro Ramirez |
+| PhilQuiVal         | [EvaCursos](https://drive.google.com/file/d/13aN3XviwM18pnN0E6oD0mTM3r47Ajnyr/view?usp=sharing)                 | Alejandro Ramirez |
+| Quarantinos        | [Freelancer](https://drive.google.com/file/d/1V4eRNACSSZtfdCUQgOf5_LezVbrqcBUH/view?usp=sharing)                | Alejandro Ramirez |
+| SalchiPapas        | [CAi App](https://drive.google.com/file/d/1atpk4gbb-ifF_2ZITCH7-ZI82u8_edz8/view?usp=sharing)                   | Alejandro Ramirez |
+| YabaGueb           | [Go Vegan](https://drive.google.com/file/d/1H0UBclI1x3_OmOrzH0DDpNHTUlIYeWIp/view?usp=sharing)                  | Moisés Retamal    |
+| CoronaWeb          | [EvaCursos](https://drive.google.com/file/d/13aN3XviwM18pnN0E6oD0mTM3r47Ajnyr/view?usp=sharing)                 | Moisés Retamal    |
+| Cualquier nombre   | [Boletín](https://drive.google.com/file/d/1Cfb1tJ3F8tXwNEaqnS-nQRH5YLi0AaTd/view?usp=sharing)                   | Moisés Retamal    |
+| improvisando       | [Freelancer](https://drive.google.com/file/d/1V4eRNACSSZtfdCUQgOf5_LezVbrqcBUH/view?usp=sharing)                | Moisés Retamal    |
+| alestay97          | [Limelighter](https://docs.google.com/document/d/117GcZoFUeKQz9VE6y5BPXnO4K7CZF8HR4FVlwYHpZts/edit?usp=sharing) | Moisés Retamal    |
+| Charming Koalas    | [Go Vegan](https://drive.google.com/file/d/1H0UBclI1x3_OmOrzH0DDpNHTUlIYeWIp/view?usp=sharing)                  | Andre Simón       |
+| uwu                | [X-Change](https://drive.google.com/file/d/15Mv_9uYKkGqB7tPn9P4LuUSSLTCspE4-/view?usp=sharing)                  | Andre Simón       |
+| ;DROP TABLE        | [X-Change](https://drive.google.com/file/d/15Mv_9uYKkGqB7tPn9P4LuUSSLTCspE4-/view?usp=sharing)                  | Andre Simón       |
+| Weebs              | [Go Vegan](https://drive.google.com/file/d/1H0UBclI1x3_OmOrzH0DDpNHTUlIYeWIp/view?usp=sharing)                  | Andre Simón       |
+| jshdfsh            | [DCConstituyo](https://drive.google.com/open?id=1sjJWQVbLwocBzF360dih_0eTi4eGrsEu)                              | Andre Simón       |
+| Bolognesa          | [X-Change](https://drive.google.com/file/d/15Mv_9uYKkGqB7tPn9P4LuUSSLTCspE4-/view?usp=sharing)                  | Tien Villalobos   |
+| SEMESTRE SINTÉTICO | [EvaCursos](https://drive.google.com/file/d/13aN3XviwM18pnN0E6oD0mTM3r47Ajnyr/view?usp=sharing)                 | Tien Villalobos   |
+| kaboo              | [Wedding-e-Planner](https://drive.google.com/file/d/1Clo3ozHi1arVuSPUJsNafXte5ThvQFR1/view?usp=sharing)         | Tien Villalobos   |
+| Grupo 1            | [Go Vegan](https://drive.google.com/file/d/1H0UBclI1x3_OmOrzH0DDpNHTUlIYeWIp/view?usp=sharing)                  | Tien Villalobos   |
+| Losokatz           | [Limelighter](https://docs.google.com/document/d/117GcZoFUeKQz9VE6y5BPXnO4K7CZF8HR4FVlwYHpZts/edit?usp=sharing) | Tien Villalobos   |
+| CoronaGang         | [DCConstituyo](https://drive.google.com/open?id=1sjJWQVbLwocBzF360dih_0eTi4eGrsEu)                              | Sofía Ormazabal   |
+| Los Lactosos       | [Go Vegan](https://drive.google.com/file/d/1H0UBclI1x3_OmOrzH0DDpNHTUlIYeWIp/view?usp=sharing)                  | Sofía Ormazabal   |
+| Yodadab            | [Limelighter](https://docs.google.com/document/d/117GcZoFUeKQz9VE6y5BPXnO4K7CZF8HR4FVlwYHpZts/edit?usp=sharing) | Sofía Ormazabal   |
 
 
 Pueden ver los datos para poder contactar a su ayudante en el [programa del curso](../../../#equipo)
