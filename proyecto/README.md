@@ -31,7 +31,7 @@ Cada equipo tiene asignado un proyecto y un ayudante que los guiará y evaluará
 | Belicooo           | [Freelancer](https://drive.google.com/file/d/1V4eRNACSSZtfdCUQgOf5_LezVbrqcBUH/view?usp=sharing)                | Hue Bin Kim       |
 | webros             | [CAi App](https://drive.google.com/file/d/1atpk4gbb-ifF_2ZITCH7-ZI82u8_edz8/view?usp=sharing)                   | Hue Bin Kim       |
 | adh bots           | [DCConstituyo](https://drive.google.com/open?id=1sjJWQVbLwocBzF360dih_0eTi4eGrsEu)                              | Andrés Pincheira  |
-| cachuwebos         | [DCConstituyo](https://drive.google.com/open?id=1sjJWQVbLwocBzF360dih_0eTi4eGrsEu)                              | Andrés Pincheira  |
+| cachuwebos         |  [X-Change](https://drive.google.com/file/d/15Mv_9uYKkGqB7tPn9P4LuUSSLTCspE4-/view?usp=sharing)                              | Andrés Pincheira  |
 | CD Project Web     | [Nutri-cheap](https://drive.google.com/file/d/1zjbI8M2YWP3zTqqcxTjCIAAQPidsp0wL/view?usp=sharing)               | Andrés Pincheira  |
 | Localhost          | [Boletín](https://drive.google.com/file/d/1Cfb1tJ3F8tXwNEaqnS-nQRH5YLi0AaTd/view?usp=sharing)                   | Andrés Pincheira  |
 | TriMiNi            | [Boletín](https://drive.google.com/file/d/1Cfb1tJ3F8tXwNEaqnS-nQRH5YLi0AaTd/view?usp=sharing)                   | Andrés Pincheira  |
