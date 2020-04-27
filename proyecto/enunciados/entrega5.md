@@ -1,6 +1,6 @@
 # Entrega 5
 
-Fecha límite: 5 de junio, 12:01 hrs.
+Fecha límite: 12 de junio, 12:01 hrs.
 
 ## Introducción
 

@@ -1,6 +1,6 @@
 # Entrega 3
 
-Fecha límite: 6 de mayo, 11:24 hrs.
+Fecha límite: 12 de mayo, 09:28 hrs.
 
 ## Introducción
 
