@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>CSS Example</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="app_sol.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="ejercicio_sol.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <header>
+        <h1>CSS News</h1>
+      </header>
+
+      <article id="last-new">
+        <h2>Last</h2>
+        <p id="last-new-summary">
+            Nunc efficitur, lacus in rutrum posuere, eros magna commodo sapien, aliquam cursus risus nibh sit amet diam. Aenean varius et lacus eu laoreet. Suspendisse a placerat felis. Donec at massa maximus, euismod massa accumsan, maximus risus.
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin maximus augue sed arcu consectetur feugiat. Nunc vehicula posuere lacus vitae aliquet. Praesent pharetra tortor metus, ac facilisis elit laoreet vitae. Duis tempor augue vel risus dictum ullamcorper. Donec tempus feugiat arcu. Etiam lacinia rhoncus mauris, ac viverra augue tincidunt at. Duis purus nisi, iaculis in sagittis quis, faucibus sed lectus. Fusce odio ante, finibus in scelerisque id, luctus in mauris. Quisque in aliquet est, at vehicula nisl. Praesent fermentum auctor erat nec ornare. Etiam non odio quis risus aliquam bibendum.
+        </p>
+      </article>
+
+      <div id="related-news">
+        <h2>Related News</h2>
+        <div>
+          <article id="first-related" class="related-new-summary">
+            <h3>First recent</h3>
+            <p>Mauris tincidunt magna non nulla facilisis pretium. Quisque bibendum nisl id ornare ullamcorper. Proin ut mi at elit scelerisque hendrerit. Nunc nec nisl convallis tortor.</p>
+            <button id="first-related-button">More Info</button>
+          </article>
+
+          <article id="second-related" class="related-new-summary">
+            <h3>Second recent</h3>
+            <p>Ut tempor id justo sed fermentum. Vivamus luctus pellentesque euismod. Vestibulum maximus maximus sem, non vestibulum quam interdum id. Phasellus.</p>
+            <button id="second-related-button">More Info</button>
+          </article>
+
+          <article id="third-related" class="related-new-summary">
+            <h3>Third recent</h3>
+            <p>Suspendisse tincidunt tortor sed bibendum iaculis. Pellentesque at est vestibulum, tempus risus quis, efficitur mauris. Pellentesque a risus ex. Nunc.</p>
+            <button id="third-related-button">More Info</button>
+          </article>
+        </div>
+        <div>
+          <h3>More Info</h3>
+          <div>
+            <div id="first-related-more" class="hide">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam scelerisque turpis nisi, quis aliquet nisi venenatis non. Etiam facilisis, magna lobortis dictum scelerisque, nunc ante vestibulum magna, et pellentesque odio lectus a lectus. Nulla facilisi. Fusce tellus leo, posuere eget pharetra at, auctor eget mi. Mauris libero enim, ullamcorper vel diam eget, consequat pretium nulla. Donec venenatis sit amet nulla eget facilisis. Integer lobortis posuere gravida. Duis dapibus velit non enim faucibus, non mollis nisl scelerisque. Aenean dapibus vehicula felis ac lacinia. Phasellus elit quam, tincidunt id erat sed, convallis malesuada tortor. Curabitur eu dui consequat, blandit lorem nec, laoreet dolor. Praesent vestibulum metus et libero hendrerit lobortis. Fusce ac tortor sollicitudin, aliquam eros vel, pellentesque eros.</p>
+              <p>Nulla convallis metus eu leo commodo ullamcorper. Cras justo velit, ornare in blandit quis, accumsan condimentum massa. Phasellus tincidunt augue nec augue pulvinar, eget tempus arcu sodales. Duis velit sem, congue vitae efficitur a, tristique ut magna. Curabitur ac mollis arcu, quis volutpat nulla. Nunc venenatis nisi in lobortis viverra. Etiam a pellentesque nunc.</p>
+              <button id="first-hide-button">Hide Info</button>
+            </div>
+            <div id="second-related-more" class="hide">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec magna odio. Donec dignissim mi vitae ex malesuada, sed sagittis risus condimentum. Etiam tortor tellus, mattis nec purus vitae, tincidunt molestie libero. Nunc aliquet tortor vel urna varius pellentesque. Cras vel eros viverra eros fermentum tincidunt. Nullam egestas risus urna, dignissim interdum turpis congue sit amet. Duis risus sapien, feugiat vel libero ac, iaculis condimentum tellus. Vivamus condimentum faucibus lacus eu bibendum. Donec non nisi libero. Aenean congue purus at diam maximus, vel accumsan ex vehicula. Vestibulum et mattis risus, quis pellentesque tellus. Aliquam ut congue nulla. Donec porttitor magna ac tempus tristique.</p>
+              <p>Nam pretium vitae leo sed commodo. Integer vestibulum, libero at suscipit viverra, tortor enim gravida quam, a egestas quam lacus vitae nibh. Pellentesque vel porttitor lacus, eget placerat mauris. Quisque tincidunt nec lectus sed fringilla. Etiam feugiat placerat eros id gravida. Aliquam auctor mattis vehicula. Nullam feugiat venenatis nisi, at placerat felis molestie a. Cras quis massa non nunc iaculis eleifend et quis sapien. Donec eu nunc nisi. Ut pretium ullamcorper tincidunt. Sed sed pellentesque orci. Vestibulum a tellus leo. Proin rhoncus justo vitae vulputate molestie.</p>
+              <button id="second-hide-button">Hide Info</button>
+            </div>
+            <div id="third-related-more" class="hide">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna elit, ultrices vel ultrices non, lobortis ut est. Ut tempor, urna a ullamcorper fringilla, felis leo placerat ipsum, ullamcorper scelerisque purus mauris id mauris. Ut et fringilla nibh. Nam vel eleifend nibh. Sed lorem orci, porta ac laoreet nec, aliquet ac ex. Cras at elit condimentum, varius neque in, eleifend dui. Praesent egestas tempor tellus, at rhoncus augue porttitor in. Pellentesque malesuada, magna iaculis dictum tempus, libero nisl hendrerit elit, id volutpat nibh lacus non risus. Donec sagittis urna sit amet malesuada congue. Integer consequat ultrices elementum. In gravida vitae massa vitae dapibus. Vivamus finibus mauris tincidunt sem vehicula, et venenatis libero sodales. Aliquam eu sagittis libero. Fusce ac magna varius, vehicula ante id, fermentum nisl. Nam rutrum libero eu viverra varius.</p>
+              <p>Proin sit amet dolor turpis. Sed volutpat pretium nibh et elementum. Cras nisi enim, tristique in gravida ac, maximus id mi. Nunc fringilla euismod mi, nec ultricies elit venenatis ut. Vivamus convallis purus cursus nisl vulputate auctor. Etiam venenatis tortor vel tortor tempus pretium. Mauris velit urna, pharetra nec commodo eget, lobortis tempus orci. Sed et elit hendrerit risus tempus dignissim. Donec vitae sollicitudin ligula. Sed maximus neque sit amet justo consequat hendrerit. Aenean interdum pharetra velit non commodo. Vivamus ac mauris nec risus ultrices posuere.</p>
+              <button id="third-hide-button">Hide Info</button>
+            </div>
+          </div>
+        </div>
+
+        <h3>Live</h3>
+        <p>No results</p>
+      </div>
+    </div>
+  </body>
+</html>
