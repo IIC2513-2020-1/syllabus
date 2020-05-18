@@ -69,9 +69,9 @@ Las entregas tendrán una duración aproximada de 2 semanas cada una. A continua
 * **[Entrega 1](enunciados/entrega1.md):** 31 de marzo, 18:09 hrs.
 * **[Entrega 2](enunciados/entrega2.md):** 20 de abril, 17:37 hrs.
 * **[Entrega 3](enunciados/entrega3.md):** 12 de mayo, 09:28 hrs.
-* **[Entrega 4](enunciados/entrega4.md):** 27 de mayo, 23:43 hrs.
-* **[Entrega 5](enunciados/entrega5.md):** 12 de junio, 12:01 hrs.
-* **[Entrega 6](enunciados/entrega6.md):** 24 de junio, 10:48 hrs.
+* **[Entrega 4](enunciados/entrega4.md):** 03 de junio, 23:43 hrs.
+* **[Entrega 5](enunciados/entrega5.md):** 19 de junio, 12:01 hrs.
+* **[Entrega 6](enunciados/entrega6.md):** 01 de julio, 10:48 hrs.
 
 ## Indicaciones
 

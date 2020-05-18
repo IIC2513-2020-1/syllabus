@@ -1,6 +1,6 @@
 # Entrega 4
 
-Fecha límite: 27 de mayo, 23:43 hrs.
+Fecha límite: 03 de junio, 23:43 hrs.
 
 ## Introducción
 
