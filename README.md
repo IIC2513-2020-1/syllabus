@@ -140,7 +140,7 @@ La nota final considera las interrogaciones, el examen práctico y el proyecto d
 |:-------------------- |:--------------------|
 | I1                   |  07 de abril        |
 | I2                   |  14 de mayo         |
-| Ex                   |  15 de julio        |
+| Ex                   |  14 de julio        |
 
 Durante el semestre podrían haber evaluaciones y/o actividades, con o sin previo aviso, que aunque no serán consideradas directamente en la nota final, podrían significar bonificaciones en alguna de las evaluaciones listadas anteriormente.
 
