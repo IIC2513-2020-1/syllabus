@@ -1,0 +1,29 @@
+.header {
+  margin: 0 auto;
+  width: 80%;
+  height: 200px;
+  border: 1px solid black;
+  background-color: red;
+}
+
+.main {
+  margin: 0 auto;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.item {
+  padding: 10px;
+  height: 150px;
+  width: 350px;
+  background-color: green;
+  display: inline-block;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 100%;
+  height: 200px;
+  border: 1px solid black;
+  background-color: blue;
+}

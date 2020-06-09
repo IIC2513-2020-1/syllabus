@@ -1,0 +1,23 @@
+.header {
+  margin: 0 auto;
+  width: 80%;
+  height: 200px;
+  border: 1px solid black;
+  background-color: red;
+}
+
+.main {
+  margin: 0 auto;
+  height: 600px;
+  width: 90%;
+  border: 1px solid black;
+  background-color: green;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 100%;
+  height: 200px;
+  border: 1px solid black;
+  background-color: blue;
+}

@@ -1,0 +1,46 @@
+.header {
+  margin: 0 auto;
+  width: 80%;
+  height: 200px;
+  border: 1px solid black;
+  background-color: red;
+}
+
+.main {
+  margin: 0 auto;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.item {
+  padding: 10px;
+  height: 150px;
+  width: 450px;
+  background-color: green;
+  display: inline-block;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 100%;
+  height: 200px;
+  border: 1px solid black;
+  background-color: blue;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    width: 100%;
+  }
+
+  .main {
+    height: auto;
+    width: auto;
+  }
+
+  .item {
+    width: 100%;
+    padding: 0px;
+    background-color: yellow;
+  }
+}

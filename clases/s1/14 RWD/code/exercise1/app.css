@@ -1,0 +1,52 @@
+body {
+  background-color: #EEE;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#container {
+  margin: 0 auto;
+  min-width: 600px;
+  max-width: 800px;
+
+  background-color: white;
+  padding: 40px;
+}
+
+#last-new h2 {
+  color: white;
+  background-color: tomato;
+}
+
+#last-new p {
+  text-align: justify;
+}
+
+#last-new-summary {
+  font-size: 12px;
+  font-style: italic;
+}
+
+#related-news {
+  margin-top: 40px;
+}
+
+#related-news h2 {
+  background-color: wheat;
+  text-align: center;
+}
+
+.related-new-summary {
+  position: relative;
+  display: inline-block;
+  padding: 20px;
+  width: 200px;
+  border: 1px solid black;
+}
+
+.related-new-summary p {
+  text-align: center;
+}
+
+.related-new-summary h3 {
+  text-decoration: underline;
+}
