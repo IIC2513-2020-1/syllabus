@@ -1,6 +1,6 @@
 # Proyecto Semestral - Entrega 6
 
-Fecha límite: 01 de julio, 10:48 hrs.
+Fecha límite: 03 de julio, 10:48 hrs.
 
 # Introducción
 
